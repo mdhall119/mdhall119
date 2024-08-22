@@ -7,3 +7,5 @@ When refferencing a file use ../ to specify the root directly above /html or /cs
 DO NOT HOT LINK TO PEOPLSE ASSETS!
 
 Keep photos small as tinkerhost has a limit on file size, though this should not really be an issue. If you need custom graphics consider an inline <svg>
+
+### https://www.mikeos.thsite.top
