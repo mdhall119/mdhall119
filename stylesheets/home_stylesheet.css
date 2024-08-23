@@ -1,38 +1,78 @@
 hr {    /*This is whats coloring the horizontal line on your home page */
-    background-color: red;
-    height: 2px;
+
+    background-color: CadetBlue;
+
+    height: 4px;
+
     border: none;
+
 }
+
+
 
 .navigation {
-border: 2px solid black;
-background-color: gray;
+
+  border: 2px solid black;
+
+  background-color: CadetBlue;
+
 }
+
+
 
 .contentArea {
+
     display: flex; /*This is what enables flexbox*/
+
+    background-color: #F0F8FF;
+
     flex-direction: column; /*This makes each sub container stack vertically.*/
+
     width: 1; /*Units can be unitless, vw, px, pt, and %*/
+
     justify-content: space-between;
+
     margin: 2px;
+
     padding: 2px;
+
 }
+
+
 
 .subContainer {
+
     display: flex;
+
     flex-direction: row;
+
     justify-content: space-evenly;
+
 }
+
+
 
 .subContainer > div {
+
     text-align: center;
+
     align-content: center;
+
 }
 
+
+
 .contentArea > div {
+
     border: 2px solid black;
+
     height: 50px;
+
     text-align: center;
+
     margin-top: 5px;
+
     align-content: center;
+
 }
+
