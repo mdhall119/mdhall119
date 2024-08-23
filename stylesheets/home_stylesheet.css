@@ -1,6 +1,6 @@
 hr {    /*This is whats coloring the horizontal line on your home page */
 
-    background-color: CadetBlue;
+a    background-color: CadetBlue;
 
     height: 4px;
 
@@ -8,7 +8,11 @@ hr {    /*This is whats coloring the horizontal line on your home page */
 
 }
 
+body{
 
+  background-color: #DCDCDC;
+
+}
 
 .navigation {
 
