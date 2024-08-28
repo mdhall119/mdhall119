@@ -7,6 +7,11 @@
     font-weight: normal;
     font-style: normal;
 }
+
+body {
+    background-color: CadetBlue;
+}
+
 .footer {
     position: absolute;
     bottom: 0px;
